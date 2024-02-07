@@ -40,7 +40,7 @@ possible. A length of 30 seconds was chosen to make it easier to annotate and pr
 
 The folder containing annotated videos has 20 sub-folders with annotations of each video. Each folder of videos has a folder containing extracted frames of the video, a folder containing bounding box labels of each frame, and a folder containing bounding box labels and the corresponding tracking identifiers. In addition to these, a complete video file (.mp4) is provided in the same folder. All bounding box coordinates are given using the YOLO format. The folder containing bounding box details with tracking identifiers has ‘.txt‘ files with unique tracking ids to identify individual spermatozoa throughout the video. It is worth noting that the area of the bounding boxes of the same sperm changes over time depending on its position and movement in the videos. 
 
-<img src="https://github.com/dataset-ninja/visem-tracking/assets/120389559/8ac1d74d-dd00-48bf-8f37-1bb737e74de7" alt="image" width="1000">
+<img src="https://github.com/dataset-ninja/visem-tracking/assets/120389559/8ac1d74d-dd00-48bf-8f37-1bb737e74de7" alt="image" width="500">
 
 <span style="font-size: smaller; font-style: italic;">Changing bounding box area over time for the same sperm head.</span>
 
