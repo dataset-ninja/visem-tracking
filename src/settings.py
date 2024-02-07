@@ -74,13 +74,12 @@ AUTHORS: Optional[List[str]] = [
 ]
 AUTHORS_CONTACTS: Optional[List[str]] = ["vajira@simula.no"]
 
-ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "NO joint research group"
-ORGANIZATION_URL: Optional[Union[str, List[str]]] = None
+ORGANIZATION_NAME: Optional[Union[str, List[str]]] = "SimulaMet, Norway and the OsloMet, Norway"
+ORGANIZATION_URL: Optional[Union[str, List[str]]] = ["https://www.simulamet.no/"]
 
 # Set '__PRETEXT__' or '__POSTTEXT__' as a key with string value to add custom text. e.g. SLYTAGSPLIT = {'__POSTTEXT__':'some text}
 SLYTAGSPLIT: Optional[Dict[str, Union[List[str], str]]] = {
-    "patient data": ["body mass index", "abstinence time", "age"],
-    "__POSTTEXT__": "Additionally, images have information about ***sequence***",
+    "__POSTTEXT__": "Additionally, every image contains information about patients ***abstinence time***, ***age***, and ***body mass index***. Moreover, every image is tagged with ***sequence***"
 }
 TAGS: Optional[List[str]] = None
 
