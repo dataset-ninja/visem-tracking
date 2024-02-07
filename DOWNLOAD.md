@@ -1,6 +1,6 @@
 Dataset **VISEM-Tracking** can be downloaded in [Supervisely format](https://developer.supervisely.com/api-references/supervisely-annotation-json-format):
 
- [Download](Set 'HIDE_DATASET=False' to generate download link)
+ [Download](https://assets.supervisely.com/supervisely-supervisely-assets-public/teams_storage/Y/5/Zm/yNuuGKFZF0NrUHgRDiiIWRFsDFmtcYJ8x43EZHVCvvVKSDEnSQFXVWic0ozIaSnXmMs8rW5BHiobEUXA3zZBdcFuLptndYZemuHviT8fv5HLWBLdighNhWJiKOqW.tar)
 
 As an alternative, it can be downloaded with *dataset-tools* package:
 ``` bash
